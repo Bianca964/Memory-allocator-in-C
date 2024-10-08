@@ -1,4 +1,3 @@
-## Farcasanu Bianca Ioana 313CAb 2023-2024
 
 ## Segregated free list
     Ideea principala a acestui program este crearea unui alocator de memorie
